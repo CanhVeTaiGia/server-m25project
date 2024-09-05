@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "CanhVeTaiGia",
+            "email": "cvtg@gmail.com",
+            "password": "$2a$10$hDoCwe7p2w0Fy3.hp4sn7uq2yp8wnXk8vxB5xYHMXbHAMmfCXusca",
+            "role": true,
+            "created_at": "05/09/2024",
+            "phone": "+849123456789",
+            "address": "Số 5, Vũ Trọng Khánh, Mộ Lao, Hà Đông",
+            "status": true,
+            "fullname": "Lương Hà Minh Vỹ"
+        }
+    ]
+}
