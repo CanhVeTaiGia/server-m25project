@@ -1,16 +1,262 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "username": "CanhVeTaiGia",
-            "email": "cvtg@gmail.com",
-            "password": "$2a$10$hDoCwe7p2w0Fy3.hp4sn7uq2yp8wnXk8vxB5xYHMXbHAMmfCXusca",
-            "role": true,
-            "created_at": "05/09/2024",
-            "phone": "+849123456789",
-            "address": "Số 5, Vũ Trọng Khánh, Mộ Lao, Hà Đông",
-            "status": true,
-            "fullname": "Lương Hà Minh Vỹ"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "username": "CanhVeTaiGia",
+      "email": "cvtg@gmail.com",
+      "password": "$2a$10$hDoCwe7p2w0Fy3.hp4sn7uq2yp8wnXk8vxB5xYHMXbHAMmfCXusca",
+      "role": true,
+      "phone": "+849123456789",
+      "address": "Số 5, Vũ Trọng Khánh, Mộ Lao, Hà Đông",
+      "status": true,
+      "fullname": "Lương Hà Minh Vỹ"
+    },
+    {
+      "id": 2,
+      "username": "NguyenVanB",
+      "email": "nvb@gmail.com",
+      "password": "$2a$10$oUkzcj8wyt3EnRb7QQRQUOH4OC0aGxqNxFSgvgfRomHwViQcU0JrK",
+      "role": false,
+      "phone": "+849876543210",
+      "address": "Số 10, Nguyễn Trãi, Thanh Xuân, Hà Nội",
+      "status": true,
+      "fullname": "Nguyễn Văn Biên"
+    },
+    {
+      "id": 3,
+      "username": "LeQuocAnh",
+      "email": "lqa@gmail.com",
+      "password": "$2a$10$fjsdKJSdf8jsdFsdlfjksdfLJ32LKsdfsdfLKj2Hskjdf",
+      "role": false,
+      "phone": "+849112233445",
+      "address": "Số 15, Cầu Giấy, Hà Nội",
+      "status": true,
+      "fullname": "Lê Quốc Anh"
+    },
+    {
+      "id": 4,
+      "username": "TranThiD",
+      "email": "ttd@gmail.com",
+      "password": "$2a$10$J8sdJlkjsd8FJlsfjk2LsdfjsdfJLsdfkjL1kjLJsdf",
+      "role": true,
+      "phone": "+849223344556",
+      "address": "Số 20, Hai Bà Trưng, Hà Nội",
+      "status": false,
+      "fullname": "Trần Thị Diệu"
+    },
+    {
+      "id": 5,
+      "username": "PhamVanE",
+      "email": "pve@gmail.com",
+      "password": "$2a$10$KjsfJLsdfjk3sldJLSjkl3J2LkfjLsdfj3LkLJlk23jL",
+      "role": false,
+      "phone": "+849334455667",
+      "address": "Số 25, Đống Đa, Hà Nội",
+      "status": true,
+      "fullname": "Phạm Văn Em"
+    },
+    {
+      "id": 6,
+      "username": "HoangThiF",
+      "email": "htf@gmail.com",
+      "password": "$2a$10$sdfJLKjsdf3lkfj23LjLkJsdflkj23kLjdsfjLK3Jk2",
+      "role": false,
+      "phone": "+849445566778",
+      "address": "Số 30, Ba Đình, Hà Nội",
+      "status": true,
+      "fullname": "Hoàng Thị Phương"
+    },
+    {
+      "id": 7,
+      "username": "NguyenVanG",
+      "email": "nvg@gmail.com",
+      "password": "$2a$10$LKsdJLKJ3lkjSDFJLKj3LKjsdflk2j3LKJsdflkJ2l",
+      "role": true,
+      "phone": "+849556677889",
+      "address": "Số 35, Long Biên, Hà Nội",
+      "status": false,
+      "fullname": "Nguyễn Văn Giang"
+    },
+    {
+      "id": 8,
+      "username": "TranVanH",
+      "email": "tvh@gmail.com",
+      "password": "$2a$10$LKJsdlj3KJL2k3JLK3jlkjsdLJsdlfkj3lkJLsdf3j",
+      "role": false,
+      "phone": "+849667788990",
+      "address": "Số 40, Hoàn Kiếm, Hà Nội",
+      "status": true,
+      "fullname": "Trần Văn Hải"
+    },
+    {
+      "id": 9,
+      "username": "PhamThiI",
+      "email": "pti@gmail.com",
+      "password": "$2a$10$JKlsjdfl3jLKJslkj2LKJsdflksdj3LkJSLDkfjk3L",
+      "role": false,
+      "phone": "+849778899001",
+      "address": "Số 45, Thanh Trì, Hà Nội",
+      "status": true,
+      "fullname": "Phạm Thị Thu"
+    },
+    {
+      "id": 10,
+      "username": "LeVanJ",
+      "email": "lvj@gmail.com",
+      "password": "$2a$10$JKLsdjfL3jk2lksdJLKjsdf3LkJsdflkjsdf3lksdjL",
+      "role": true,
+      "phone": "+849889900112",
+      "address": "Số 50, Hoàng Mai, Hà Nội",
+      "status": true,
+      "fullname": "Lê Văn Khải"
+    },
+    {
+      "id": 11,
+      "username": "NguyenThiK",
+      "email": "ntk@gmail.com",
+      "password": "$2a$10$LKsjdflKJSdf3lkjLksdf3lkjsdflksdjL2kjlkJL3",
+      "role": false,
+      "phone": "+849990011223",
+      "address": "Số 55, Bắc Từ Liêm, Hà Nội",
+      "status": true,
+      "fullname": "Nguyễn Thị Lan"
+    },
+    {
+      "id": 12,
+      "username": "HoangVanL",
+      "email": "hvl@gmail.com",
+      "password": "$2a$10$LKJsdflKJSDFj2LKJ3lkjsdflkJLKsdflkjsdflkj32",
+      "role": false,
+      "phone": "+841112223344",
+      "address": "Số 60, Nam Từ Liêm, Hà Nội",
+      "status": true,
+      "fullname": "Hoàng Văn Lâm"
+    },
+    {
+      "id": 13,
+      "username": "TranThiM",
+      "email": "ttm@gmail.com",
+      "password": "$2a$10$LKJ3klsdjl3JLKj2lksj3lkjsdfJLKjlkJ3lskdjf",
+      "role": true,
+      "phone": "+841223344556",
+      "address": "Số 65, Hà Đông, Hà Nội",
+      "status": true,
+      "fullname": "Trần Thị Minh"
+    },
+    {
+      "id": 14,
+      "username": "PhamVanN",
+      "email": "pvn@gmail.com",
+      "password": "$2a$10$LKsdflKJsdflKJsdlkjsdflkjLsdflksdJLK3jLK2j",
+      "role": false,
+      "phone": "+841334455667",
+      "address": "Số 70, Thanh Xuân, Hà Nội",
+      "status": true,
+      "fullname": "Phạm Văn Nam"
+    },
+    {
+      "id": 15,
+      "username": "NguyenThiO",
+      "email": "nto@gmail.com",
+      "password": "$2a$10$JKslkdjLKsdfjLK2j3lkjsdLKJsdflkJLK3jlksdj2",
+      "role": false,
+      "phone": "+841445566778",
+      "address": "Số 75, Cầu Giấy, Hà Nội",
+      "status": true,
+      "fullname": "Nguyễn Thị Oanh"
+    },
+    {
+      "id": 16,
+      "username": "LeVanP",
+      "email": "lvp@gmail.com",
+      "password": "$2a$10$LKsdfjLKsdflkjsdflkjLJ3lksdjfLKJlkjsdflkJ2",
+      "role": true,
+      "phone": "+841556677889",
+      "address": "Số 80, Hai Bà Trưng, Hà Nội",
+      "status": true,
+      "fullname": "Lê Văn Phúc"
+    },
+    {
+      "id": 17,
+      "username": "TranThiQ",
+      "email": "ttq@gmail.com",
+      "password": "$2a$10$LKsdflkjLKSdjlk2J3lkjsdfLKsdflkjsdflk3JlkJ",
+      "role": false,
+      "phone": "+841667788990",
+      "address": "Số 85, Ba Đình, Hà Nội",
+      "status": true,
+      "fullname": "Trần Thị Quỳnh"
+    },
+    {
+      "id": 18,
+      "username": "PhamVanR",
+      "email": "pvr@gmail.com",
+      "password": "$2a$10$JLKsdflkJLKsdfjlkjsdf3LkJsdflkjsdflKj3lkjJ2",
+      "role": false,
+      "phone": "+841778899001",
+      "address": "Số 90, Đống Đa, Hà Nội",
+      "status": true,
+      "fullname": "Phạm Văn Rạng"
+    },
+    {
+      "id": 19,
+      "username": "NguyenThiS",
+      "email": "nts@gmail.com",
+      "password": "$2a$10$LKsdflKJsdflkjsdflksdflkjsdflkjLKJsdflk3J2",
+      "role": true,
+      "phone": "+841889900112",
+      "address": "Số 95, Hoàn Kiếm, Hà Nội",
+      "status": true,
+      "fullname": "Nguyễn Thị Sen"
+    },
+    {
+      "id": 20,
+      "username": "LeVanT",
+      "email": "lvt@gmail.com",
+      "password": "$2a$10$LKJsdflKJsdflkjsdflksdflkjsdflkjsdflksdJ3l2",
+      "role": true,
+      "phone": "+841990011223",
+      "address": "Số 100, Thanh Trì, Hà Nội",
+      "status": true,
+      "fullname": "Lê Văn Tâm"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Dell",
+      "description": "Hãng máy tính nổi tiếng với các sản phẩm bền bỉ và hiệu suất cao, phù hợp cho nhiều nhu cầu khác nhau.",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "HP",
+      "description": "Hãng máy tính cung cấp các sản phẩm đa dạng từ máy tính văn phòng đến máy tính gaming.",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "description": "Hãng máy tính với các sản phẩm cao cấp, nổi tiếng với thiết kế đẹp mắt và hệ điều hành macOS.",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Lenovo",
+      "description": "Hãng máy tính nổi tiếng với các dòng laptop ThinkPad dành cho doanh nghiệp và người dùng chuyên nghiệp.",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Acer",
+      "description": "Hãng máy tính với các sản phẩm có giá thành hợp lý, từ laptop văn phòng đến gaming.",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Asus",
+      "description": "Hãng máy tính nổi tiếng với các dòng laptop gaming ROG và dòng sản phẩm ZenBook.",
+      "status": true
+    }
+]
 }
