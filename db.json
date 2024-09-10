@@ -257,6 +257,94 @@
       "name": "Asus",
       "description": "Hãng máy tính nổi tiếng với các dòng laptop gaming ROG và dòng sản phẩm ZenBook.",
       "status": true
+    },
+    {
+      "id": 7,
+      "name": "MSI",
+      "description": "Hãng máy tính tôi chưa bao giờ và bạn cũng thế",
+      "status": true
     }
-]
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Dell XPS 13",
+      "categoryId": 1,
+      "price": 24000000,
+      "stock": 50,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2Fdell_xps_9320_722c6227ecc04c648c.jpg?alt=media&token=7d2ba736-ac91-47bb-bd08-192e4f950cdc"
+    },
+    {
+      "id": 2,
+      "name": "HP Spectre x360",
+      "categoryId": 2,
+      "price": 28000000,
+      "stock": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2FHP-Spectre-x360-15-01.png?alt=media&token=ecce564a-a1d1-4fcc-88aa-09112dea3c9c"
+    },
+    {
+      "id": 3,
+      "name": "Apple MacBook Pro 14",
+      "categoryId": 3,
+      "price": 50000000,
+      "stock": 25,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2Fimages.png?alt=media&token=33f36a53-6dd3-4b72-acb9-cac02978f0af"
+    },
+    {
+      "id": 4,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "categoryId": 4,
+      "price": 36000000,
+      "stock": 40,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2FUntitled.png?alt=media&token=f71e26c2-74b6-46e0-b3d7-6ec15c4bf776"
+    },
+    {
+      "id": 5,
+      "name": "Acer Predator Helios 300",
+      "categoryId": 5,
+      "price": 31000000,
+      "stock": 20,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2FAcer-Predator-Helios-300-i7-7700.png?alt=media&token=256c62ba-7563-4cff-ad45-44fb845034d1"
+    },
+    {
+      "id": 6,
+      "name": "Asus ROG Zephyrus G14",
+      "categoryId": 6,
+      "price": 33000000,
+      "stock": 35,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2Fpicture-1712717010.png?alt=media&token=e8b43812-a894-4437-ae86-ca8927154dc4"
+    },
+    {
+      "id": 7,
+      "name": "MSI GS66 Stealth",
+      "categoryId": 7,
+      "price": 38000000,
+      "stock": 15,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2F9771-msi-gs66-stealth-12ugs-227v.png?alt=media&token=ff6db51d-dd70-48f1-aa11-488b683b0c92"
+    },
+    {
+      "id": 8,
+      "name": "Dell Inspiron 15",
+      "categoryId": 1,
+      "price": 19000000,
+      "stock": 60,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2Finspiron_3520_0f555d840fd5438196.png?alt=media&token=6be88d16-1f59-4c70-9e03-b4e6241bda48"
+    },
+    {
+      "id": 9,
+      "name": "HP Envy 13",
+      "categoryId": 2,
+      "price": 21000000,
+      "stock": 45,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2F2462_laptopaz-HP-ENVY-13-ba1010n.png?alt=media&token=a933b87c-2716-44a7-bf2f-4a402b9aaf03"
+    },
+    {
+      "id": 10,
+      "name": "Apple MacBook Air M1",
+      "categoryId": 3,
+      "price": 24000000,
+      "stock": 5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2F2462_laptopaz-HP-ENVY-13-ba1010n.png?alt=media&token=a933b87c-2716-44a7-bf2f-4a402b9aaf03"
+    }
+  ]
 }
