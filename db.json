@@ -9,7 +9,8 @@
       "phone": "+849123456789",
       "address": "Số 5, Vũ Trọng Khánh, Mộ Lao, Hà Đông",
       "status": true,
-      "fullname": "Lương Hà Minh Vỹ"
+      "fullname": "Lương Hà Minh Vỹ",
+      "carts": []
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "phone": "+849876543210",
       "address": "Số 10, Nguyễn Trãi, Thanh Xuân, Hà Nội",
       "status": true,
-      "fullname": "Nguyễn Văn Biên"
+      "fullname": "Nguyễn Văn Biên",
+      "carts": []
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "phone": "+849112233445",
       "address": "Số 15, Cầu Giấy, Hà Nội",
       "status": true,
-      "fullname": "Lê Quốc Anh"
+      "fullname": "Lê Quốc Anh",
+      "carts": []
     },
     {
       "id": 4,
@@ -42,7 +45,8 @@
       "phone": "+849223344556",
       "address": "Số 20, Hai Bà Trưng, Hà Nội",
       "status": false,
-      "fullname": "Trần Thị Diệu"
+      "fullname": "Trần Thị Diệu",
+      "carts": []
     },
     {
       "id": 5,
@@ -53,7 +57,8 @@
       "phone": "+849334455667",
       "address": "Số 25, Đống Đa, Hà Nội",
       "status": true,
-      "fullname": "Phạm Văn Em"
+      "fullname": "Phạm Văn Em",
+      "carts": []
     },
     {
       "id": 6,
@@ -64,7 +69,8 @@
       "phone": "+849445566778",
       "address": "Số 30, Ba Đình, Hà Nội",
       "status": true,
-      "fullname": "Hoàng Thị Phương"
+      "fullname": "Hoàng Thị Phương",
+      "carts": []
     },
     {
       "id": 7,
@@ -75,7 +81,8 @@
       "phone": "+849556677889",
       "address": "Số 35, Long Biên, Hà Nội",
       "status": false,
-      "fullname": "Nguyễn Văn Giang"
+      "fullname": "Nguyễn Văn Giang",
+      "carts": []
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "phone": "+849667788990",
       "address": "Số 40, Hoàn Kiếm, Hà Nội",
       "status": true,
-      "fullname": "Trần Văn Hải"
+      "fullname": "Trần Văn Hải",
+      "carts": []
     },
     {
       "id": 9,
@@ -97,7 +105,8 @@
       "phone": "+849778899001",
       "address": "Số 45, Thanh Trì, Hà Nội",
       "status": true,
-      "fullname": "Phạm Thị Thu"
+      "fullname": "Phạm Thị Thu",
+      "carts": []
     },
     {
       "id": 10,
@@ -108,7 +117,8 @@
       "phone": "+849889900112",
       "address": "Số 50, Hoàng Mai, Hà Nội",
       "status": true,
-      "fullname": "Lê Văn Khải"
+      "fullname": "Lê Văn Khải",
+      "carts": []
     },
     {
       "id": 11,
@@ -119,7 +129,8 @@
       "phone": "+849990011223",
       "address": "Số 55, Bắc Từ Liêm, Hà Nội",
       "status": true,
-      "fullname": "Nguyễn Thị Lan"
+      "fullname": "Nguyễn Thị Lan",
+      "carts": []
     },
     {
       "id": 12,
@@ -130,7 +141,8 @@
       "phone": "+841112223344",
       "address": "Số 60, Nam Từ Liêm, Hà Nội",
       "status": true,
-      "fullname": "Hoàng Văn Lâm"
+      "fullname": "Hoàng Văn Lâm",
+      "carts": []
     },
     {
       "id": 13,
@@ -141,7 +153,8 @@
       "phone": "+841223344556",
       "address": "Số 65, Hà Đông, Hà Nội",
       "status": true,
-      "fullname": "Trần Thị Minh"
+      "fullname": "Trần Thị Minh",
+      "carts": []
     },
     {
       "id": 14,
@@ -152,7 +165,8 @@
       "phone": "+841334455667",
       "address": "Số 70, Thanh Xuân, Hà Nội",
       "status": true,
-      "fullname": "Phạm Văn Nam"
+      "fullname": "Phạm Văn Nam",
+      "carts": []
     },
     {
       "id": 15,
@@ -163,7 +177,8 @@
       "phone": "+841445566778",
       "address": "Số 75, Cầu Giấy, Hà Nội",
       "status": true,
-      "fullname": "Nguyễn Thị Oanh"
+      "fullname": "Nguyễn Thị Oanh",
+      "carts": []
     },
     {
       "id": 16,
@@ -172,53 +187,58 @@
       "password": "$2a$10$LKsdfjLKsdflkjsdflkjLJ3lksdjfLKJlkjsdflkJ2",
       "role": true,
       "phone": "+841556677889",
-      "address": "Số 80, Hai Bà Trưng, Hà Nội",
+      "address": "Số 80, Ba Đình, Hà Nội",
       "status": true,
-      "fullname": "Lê Văn Phúc"
+      "fullname": "Lê Văn Phong",
+      "carts": []
     },
     {
       "id": 17,
       "username": "TranThiQ",
       "email": "ttq@gmail.com",
-      "password": "$2a$10$LKsdflkjLKSdjlk2J3lkjsdfLKsdflkjsdflk3JlkJ",
+      "password": "$2a$10$KJ3lkjsdflJLKJ2lkjsdflKJsdflkjsdLJK2lkjsdflkJ",
       "role": false,
       "phone": "+841667788990",
-      "address": "Số 85, Ba Đình, Hà Nội",
+      "address": "Số 85, Hai Bà Trưng, Hà Nội",
       "status": true,
-      "fullname": "Trần Thị Quỳnh"
+      "fullname": "Trần Thị Quỳnh",
+      "carts": []
     },
     {
       "id": 18,
       "username": "PhamVanR",
       "email": "pvr@gmail.com",
-      "password": "$2a$10$JLKsdflkJLKsdfjlkjsdf3LkJsdflkjsdflKj3lkjJ2",
-      "role": false,
+      "password": "$2a$10$LK3jlksdjlkJLK2j3lkjsdflKJLKJsdflkjsdLkjlkj23",
+      "role": true,
       "phone": "+841778899001",
       "address": "Số 90, Đống Đa, Hà Nội",
       "status": true,
-      "fullname": "Phạm Văn Rạng"
+      "fullname": "Phạm Văn Rực",
+      "carts": []
     },
     {
       "id": 19,
       "username": "NguyenThiS",
       "email": "nts@gmail.com",
-      "password": "$2a$10$LKsdflKJsdflkjsdflksdflkjsdflkjLKJsdflk3J2",
-      "role": true,
+      "password": "$2a$10$LKsdfjLKsdflkjsdflkjLJ3lksdjfLKJlkjsdflkJ2",
+      "role": false,
       "phone": "+841889900112",
-      "address": "Số 95, Hoàn Kiếm, Hà Nội",
+      "address": "Số 95, Hoàng Mai, Hà Nội",
       "status": true,
-      "fullname": "Nguyễn Thị Sen"
+      "fullname": "Nguyễn Thị Sương",
+      "carts": []
     },
     {
       "id": 20,
       "username": "LeVanT",
       "email": "lvt@gmail.com",
-      "password": "$2a$10$LKJsdflKJsdflkjsdflksdflkjsdflkjsdflksdJ3l2",
-      "role": true,
+      "password": "$2a$10$KJ3lkjsdflJLKJ2lkjsdflKJsdflkjsdLJK2lkjsdflkJ",
+      "role": false,
       "phone": "+841990011223",
-      "address": "Số 100, Thanh Trì, Hà Nội",
+      "address": "Số 100, Long Biên, Hà Nội",
       "status": true,
-      "fullname": "Lê Văn Tâm"
+      "fullname": "Lê Văn Thành",
+      "carts": []
     }
   ],
   "category": [
@@ -257,14 +277,9 @@
       "name": "Asus",
       "description": "Hãng máy tính nổi tiếng với các dòng laptop gaming ROG và dòng sản phẩm ZenBook.",
       "status": true
-    },
-    {
-      "id": 7,
-      "name": "MSI",
-      "description": "Hãng máy tính tôi chưa bao giờ và bạn cũng thế",
-      "status": true
     }
   ],
+
   "products": [
     {
       "id": 1,
@@ -344,7 +359,7 @@
       "categoryId": 3,
       "price": 24000000,
       "stock": 5,
-      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2F2462_laptopaz-HP-ENVY-13-ba1010n.png?alt=media&token=a933b87c-2716-44a7-bf2f-4a402b9aaf03"
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2Fmacbook-air-m1-2020-gray-600x600.png?alt=media&token=6d10104b-5c4b-4bc3-a363-69a6ac33cb9e"
     }
   ]
 }
