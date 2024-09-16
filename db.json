@@ -10,7 +10,15 @@
       "address": "Số 5, Vũ Trọng Khánh, Mộ Lao, Hà Đông",
       "status": true,
       "fullname": "Lương Hà Minh Vỹ",
-      "carts": []
+      "carts": [
+        {
+          "userId": 1,
+          "productId": 9,
+          "quantity": 2,
+          "price": 21000000
+        }
+      ],
+      "avatar": ""
     },
     {
       "id": 2,
@@ -22,7 +30,8 @@
       "address": "Số 10, Nguyễn Trãi, Thanh Xuân, Hà Nội",
       "status": true,
       "fullname": "Nguyễn Văn Biên",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 3,
@@ -34,7 +43,8 @@
       "address": "Số 15, Cầu Giấy, Hà Nội",
       "status": true,
       "fullname": "Lê Quốc Anh",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 4,
@@ -46,7 +56,8 @@
       "address": "Số 20, Hai Bà Trưng, Hà Nội",
       "status": false,
       "fullname": "Trần Thị Diệu",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 5,
@@ -58,7 +69,8 @@
       "address": "Số 25, Đống Đa, Hà Nội",
       "status": true,
       "fullname": "Phạm Văn Em",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 6,
@@ -70,7 +82,8 @@
       "address": "Số 30, Ba Đình, Hà Nội",
       "status": true,
       "fullname": "Hoàng Thị Phương",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 7,
@@ -82,7 +95,8 @@
       "address": "Số 35, Long Biên, Hà Nội",
       "status": false,
       "fullname": "Nguyễn Văn Giang",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 8,
@@ -94,7 +108,8 @@
       "address": "Số 40, Hoàn Kiếm, Hà Nội",
       "status": true,
       "fullname": "Trần Văn Hải",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 9,
@@ -106,7 +121,8 @@
       "address": "Số 45, Thanh Trì, Hà Nội",
       "status": true,
       "fullname": "Phạm Thị Thu",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 10,
@@ -118,7 +134,8 @@
       "address": "Số 50, Hoàng Mai, Hà Nội",
       "status": true,
       "fullname": "Lê Văn Khải",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 11,
@@ -130,7 +147,8 @@
       "address": "Số 55, Bắc Từ Liêm, Hà Nội",
       "status": true,
       "fullname": "Nguyễn Thị Lan",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 12,
@@ -142,7 +160,8 @@
       "address": "Số 60, Nam Từ Liêm, Hà Nội",
       "status": true,
       "fullname": "Hoàng Văn Lâm",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 13,
@@ -154,7 +173,8 @@
       "address": "Số 65, Hà Đông, Hà Nội",
       "status": true,
       "fullname": "Trần Thị Minh",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 14,
@@ -166,7 +186,8 @@
       "address": "Số 70, Thanh Xuân, Hà Nội",
       "status": true,
       "fullname": "Phạm Văn Nam",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 15,
@@ -178,67 +199,21 @@
       "address": "Số 75, Cầu Giấy, Hà Nội",
       "status": true,
       "fullname": "Nguyễn Thị Oanh",
-      "carts": []
+      "carts": [],
+      "avatar": ""
     },
     {
       "id": 16,
       "username": "LeVanP",
       "email": "lvp@gmail.com",
-      "password": "$2a$10$LKsdfjLKsdflkjsdflkjLJ3lksdjfLKJlkjsdflkJ2",
-      "role": true,
+      "password": "$2a$10$JKlsdflKJ2lkj3lkjsdflKJsdfLKjlkJlsdkfjLk3",
+      "role": false,
       "phone": "+841556677889",
       "address": "Số 80, Ba Đình, Hà Nội",
       "status": true,
-      "fullname": "Lê Văn Phong",
-      "carts": []
-    },
-    {
-      "id": 17,
-      "username": "TranThiQ",
-      "email": "ttq@gmail.com",
-      "password": "$2a$10$KJ3lkjsdflJLKJ2lkjsdflKJsdflkjsdLJK2lkjsdflkJ",
-      "role": false,
-      "phone": "+841667788990",
-      "address": "Số 85, Hai Bà Trưng, Hà Nội",
-      "status": true,
-      "fullname": "Trần Thị Quỳnh",
-      "carts": []
-    },
-    {
-      "id": 18,
-      "username": "PhamVanR",
-      "email": "pvr@gmail.com",
-      "password": "$2a$10$LK3jlksdjlkJLK2j3lkjsdflKJLKJsdflkjsdLkjlkj23",
-      "role": true,
-      "phone": "+841778899001",
-      "address": "Số 90, Đống Đa, Hà Nội",
-      "status": true,
-      "fullname": "Phạm Văn Rực",
-      "carts": []
-    },
-    {
-      "id": 19,
-      "username": "NguyenThiS",
-      "email": "nts@gmail.com",
-      "password": "$2a$10$LKsdfjLKsdflkjsdflkjLJ3lksdjfLKJlkjsdflkJ2",
-      "role": false,
-      "phone": "+841889900112",
-      "address": "Số 95, Hoàng Mai, Hà Nội",
-      "status": true,
-      "fullname": "Nguyễn Thị Sương",
-      "carts": []
-    },
-    {
-      "id": 20,
-      "username": "LeVanT",
-      "email": "lvt@gmail.com",
-      "password": "$2a$10$KJ3lkjsdflJLKJ2lkjsdflKJsdflkjsdLJK2lkjsdflkJ",
-      "role": false,
-      "phone": "+841990011223",
-      "address": "Số 100, Long Biên, Hà Nội",
-      "status": true,
-      "fullname": "Lê Văn Thành",
-      "carts": []
+      "fullname": "Lê Văn Phúc",
+      "carts": [],
+      "avatar": ""
     }
   ],
   "category": [
@@ -279,7 +254,6 @@
       "status": true
     }
   ],
-
   "products": [
     {
       "id": 1,
@@ -287,7 +261,17 @@
       "categoryId": 1,
       "price": 24000000,
       "stock": 50,
-      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2Fdell_xps_9320_722c6227ecc04c648c.jpg?alt=media&token=7d2ba736-ac91-47bb-bd08-192e4f950cdc"
+      "image": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2Fdell_xps_9320_722c6227ecc04c648c.jpg?alt=media&token=7d2ba736-ac91-47bb-bd08-192e4f950cdc",
+      "username": "CanhVeTaiGia",
+      "email": "cvtg@gmail.com",
+      "password": "$2a$10$hDoCwe7p2w0Fy3.hp4sn7uq2yp8wnXk8vxB5xYHMXbHAMmfCXusca",
+      "role": true,
+      "phone": "+849123456789",
+      "address": "Số 5, Vũ Trọng Khánh, Mộ Lao, Hà Đông",
+      "status": true,
+      "fullname": "Lương Hà Minh Vỹ",
+      "carts": [],
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/m25-project.appspot.com/o/products%2FScreenshot%202024-08-07%20210525.png?alt=media&token=ad1ae08d-1486-464f-941c-ea852d8fabb5"
     },
     {
       "id": 2,
